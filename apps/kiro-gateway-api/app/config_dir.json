@@ -1,0 +1,13 @@
+{
+  "appName": "kiro-gateway-api",
+  "userGivenName": "kiro-gateway-api",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/jwadow/kiro-gateway.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
